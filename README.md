@@ -1,4 +1,4 @@
-This repo contains the tutorial for readthedocs.
+This repo contains the tutorial for readthedocs
 
 Read the tutorial here:
 
